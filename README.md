@@ -12,6 +12,7 @@
 ## Connect with me
 
 [<img alt="AkashJames | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akashjames)
+[<img alt="AkashJames | Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />](https://akash-james.medium.com/)
 [<img alt="kn1ght_f1re20 | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://www.twitter.com/kn1ghtf1re20)
 [<img alt="kn1ght_f1re | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/kn1ght_f1re)
 [<img alt="kn1ght_f1re | Instagram" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />](https://www.hackerrank.com/Kn1ghtF1re)
@@ -61,6 +62,7 @@ Mastering different parts of technology is absolutely necessary! Here's my skill
 ### Others tools
 
 [<img alt="Jetson" src="https://img.shields.io/badge/Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />]()
+[<img alt="OpenVINO" src="https://img.shields.io/badge/OpenVINO-0071C5?style=for-the-badge&logo=intel&logoColor=white" />]()
 [<img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?&style=for-the-badge&logo=arduino&logoColor=white" />]()
 [<img alt="Raspberry Pi" src="https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white" />]()
 [<img alt="ShotCut" src="https://img.shields.io/badge/ShotCut-115C77?&style=for-the-badge&logo=shotcut&logoColor=white" />]()
@@ -77,5 +79,14 @@ Mastering different parts of technology is absolutely necessary! Here's my skill
 [<img alt="ASUS Zephyrus" src="https://img.shields.io/badge/ROG-Zephyrus G14-eeeeee?style=for-the-badge&logo=asus&logoColor=white" />]()
 [<img alt="AMD Ryzen 9" src="https://img.shields.io/badge/AMD-Ryzen_9_4900-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />]()
 [<img alt="NVIDIA RTX 2060" src="https://img.shields.io/badge/NVIDIA-RTX2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />]()
+
+---
+
+## 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://akash-james.medium.com)
 
 ---

@@ -51,16 +51,16 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kn1ghtF1re's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kn1ghtf1re&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kn1ghtF1re's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kn1ghtf1re&theme=blue-green&hide_border=true"/>
   </a>
 </p>
 
 <h2 align="center"><b>📈 Stats for Nerds</b></h2>
 
 <p align="center">
-    <img alt="Kn1ghtF1re's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kn1ghtf1re&custom_title=Kn1ghtF1re's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=kn1ghtf1re&show_icons=true&theme=dracula&layout=compact&title_color=FFFFFF&bg_color=10,c33764,1d2671" alt="stats" height="193x"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kn1ghtf1re&show_icons=true&locale=en&theme=dracula&layout=compact&title_color=FFFFFF&bg_color=10,c33764,1d2671" alt="kn1ghtf1re" width="410px"/>
+    <img alt="Kn1ghtF1re's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kn1ghtf1re&custom_title=Kn1ghtF1re's%20Contribution%20Graph&bg_color=343D46&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=kn1ghtf1re&show_icons=true&theme=dracula&layout=compact&title_color=FFFFFF&bg_color=10,00a4ccff,f95700ff" alt="stats" height="193x"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kn1ghtf1re&show_icons=true&locale=en&theme=dracula&layout=compact&title_color=FFFFFF&bg_color=10,00a4ccff,f95700ff" alt="kn1ghtf1re" width="410px"/>
 </p>
 
 ---

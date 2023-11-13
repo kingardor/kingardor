@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://kn1ghtf1re.github.io">
-    <img src="https://img.shields.io/website?label=kn1ghtf1re.github.io&style=for-the-badge&url=https%3A%2F%2Fkn1ghtf1re.github.io">
+  <a href="https://kingardor.github.io">
+    <img src="https://img.shields.io/website?label=kingardor.github.io&style=for-the-badge&url=https%3A%2F%2Fkingardor.github.io">
   </a>
-  <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkn1ghtf1re&screen_name=kn1ghtf1re20">
-    <img src="https://img.shields.io/twitter/follow/kn1ghtf1re20?color=1DA1F2&logo=twitter&style=for-the-badge">
+  <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkingardor&screen_name=king_ardor">
+    <img src="https://img.shields.io/twitter/follow/king_ardor?color=1DA1F2&logo=twitter&style=for-the-badge">
   </a>
 </p>
 
@@ -27,7 +27,7 @@
   <a href="https://akash-james.medium.com/">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white">
   </a>
-  <a href="https://www.twitter.com/kn1ghtf1re20">
+  <a href="https://www.twitter.com/king_ardor">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
   <a href="https://instagram.com/kn1ght_f1re">
@@ -39,28 +39,20 @@
 </p>
 
 
-<h2 align="center"><b> Join the Kn1ghtF1re community </b></h2>
+<!-- <h2 align="center"><b> Join the KingArdor community </b></h2>
 
 <p align="center">
   <a href="https://discord.gg/Y9wdhH5TCy">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
-</p>
+</p> -->
 
 <h2 align="center"><b> Streaks 🔥 </b></h2>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kn1ghtF1re's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kn1ghtf1re&theme=blue-green&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="KingArdor's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kingardor&theme=blue-green&hide_border=true"/>
   </a>
-</p>
-
-<h2 align="center"><b>📈 Stats for Nerds</b></h2>
-
-<p align="center">
-    <img alt="Kn1ghtF1re's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kn1ghtf1re&custom_title=Kn1ghtF1re's%20Contribution%20Graph&bg_color=343D46&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=kn1ghtf1re&show_icons=true&theme=dracula&layout=compact&title_color=FFFFFF&bg_color=10,00a4ccff,f95700ff" alt="stats" height="193x"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kn1ghtf1re&show_icons=true&locale=en&theme=dracula&layout=compact&title_color=FFFFFF&bg_color=10,00a4ccff,f95700ff" alt="kn1ghtf1re" width="410px"/>
 </p>
 
 ---

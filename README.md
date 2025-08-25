@@ -116,10 +116,9 @@
 ---
 
 ## 📈 Stats & Streaks
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img alt="GitHub Streak" src="https://stream-stats.demolab.com/?user=kingardor"/>
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats-gray-beta.vercel.app?user=kingardor"/>
   </a>
 </p>
 
